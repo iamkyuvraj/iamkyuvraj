@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamkyuvraj
+- 👋 Hi, I’m Yuvraj 
 - 👀 I’m interested in Android(kotlin/java) , Ruby on Rails & React 
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on ...
